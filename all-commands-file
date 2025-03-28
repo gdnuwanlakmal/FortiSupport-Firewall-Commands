@@ -1,0 +1,133 @@
+## All Full Commands List
+
+get system status 
+get system performance status 
+get router info routing-table details 0.0.0.0 
+get system auto-update versions 
+get system auto-update versions 
+diagnose debug crashlog read 
+diagnose debug reset 
+diagnose debug enable 
+diagnose test application wad 1000 
+diagnose wad stats 
+diagnose wad memory 
+diagnose wad memory sum 
+diagnose debug disable 
+diagnose debug rating 
+diagnose autoupdate versions 
+diagnose ip route list 
+diagnose ip router command show show int 
+diagnose ipv6 address list 
+diagnose ipv6 neighbor-cache list 
+diagnose ipv6 route list 
+diagnose ipv6 ipv6-tunnel list 
+diagnose ipv6 sit-tunnel list 
+diagnose ips anomaly list 
+diagnose ips anomaly status 
+diagnose ips dissector status 
+diagnose ips packet status 
+diagnose sys session6 stat 
+diagnose test update info 
+diagnose sys flash list 
+fnsysctl df –k 
+diagnose sys logdisk smart 
+diagnose sys logdisk status 
+show full-configuration system ha 
+diagnose sys ha status 
+diagnose sys ha checksum show 
+diagnose sys ha dump-by vcluster 
+diagnose sys ha dump-by rcache 
+diagnose sys ha dump-by group 
+diagnose sys ha dump-by debug-zone 
+diagnose sys ha dump-by vdom 
+diagnose sys ha dump-by kernel 
+diagnose sys ha dump-by device 
+get sys session-info statistics 
+get system session-info ttl 
+get system session-helper-info list 
+diagnose netlink aggregate list 
+diagnose netlink brctl list 
+diagnose netlink device list 
+diagnose firewall iplist list 
+diagnose firewall ipmac list 
+diagnose firewall ipmac status 
+diagnose firewall iprope list 
+diagnose firewall iprope state 
+diagnose firewall iprope6 list 
+diagnose firewall iprope6 state 
+get firewall proute 
+diagnose firewall schedule list 
+get system performance firewall statistics 
+get router info routing-table all 
+get router info routing-table database 
+get vpn ipsec stats crypto 
+get vpn ipsec tunnel details 
+get vpn status ssl list 
+get webfilter ftgd-statistics 
+get webfilter status 
+diagnose emailfilter fortishield statistics list 
+diagnose emailfilter fortishield servers 
+get hardware nic mgmt2 
+get hardware nic mgmt1 
+get hardware nic port40 
+get hardware nic port39 
+get hardware nic port37 
+get hardware nic port36 
+get hardware nic port35 
+diag sys proxy memory allocator 
+diag sys proxy memory usage 
+diag sys proxy stats all 
+diag sys proxy ssl exempt list 
+diag sys proxy ssl bypass list 
+get test imap 444 
+get test nntp 444 
+get test pop3 444 
+get test smtp 444 
+get test ftpd 444 
+diag sys scanunit filter clear 
+diagnose sys scanunit stats all 
+get test urlfilter 10 
+diagnose sys sip-proxy filter clear 
+diagnose sys sip-proxy redirect list 
+diagnose sys sip-proxy config list 
+diagnose sys sip-proxy config profiles 
+diagnose sys sip-proxy meters list 
+diagnose sys sip-proxy stats proto 
+diagnose sys sip-proxy stats call 
+diagnose sys sip-proxy stats udp 
+diagnose sys sip-proxy calls idle 
+diagnose sys sip-proxy session list 
+diagnose sys sccp-proxy stats list 
+diagnose sys sccp-proxy phone list 
+get test ipsmonitor 1 
+get test ipsmonitor 3 
+get test radiusd 5 
+diagnose test application miglogd 6 
+diagnose test application quarantined 2 
+show full-configuration system storage 
+how full-configuration log disk setting 
+diagnose wad memory sum 
+diagnose wad stats common 
+diagnose wad stats worker 
+diagnose wad stats algo 
+diagnose wad stats dispatcher 
+diagnose wad stats usr_info 
+diagnose wad stats cache_service 
+diagnose wad worker webcache stats 
+diagnose wad csvc webcache stats 
+diagnose wad csvc webcache lists 
+diagnose wacs stats 
+diagnose wad worker bytecache stats 
+diagnose wad csvc bytecache stats 
+diagnose wad csvc bytecache lists 
+diagnose wadbd stats 
+diagnose wad worker memcache stats 
+diagnose wad csvc memcache stats 
+diagnose wad csvc memcache lists 
+diagnose debug crashlog read 
+diagnose hardware sysinfo memory 
+diagnose sys top-all 1 100 1 
+diagnose sys process sock-mem ipsengine 
+diagnose sys process sock-mem wad 
+diagnose sys process sock-mem proxyd 
+diagnose sys profile report 
